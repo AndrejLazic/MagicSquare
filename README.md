@@ -1,1 +1,2 @@
-# magicni_kvadrat
+Vega IT - Izazov
+Magični kvadrat
